@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pdfplumber
+python-docx
+docx2txt
+sentence-transformers
+numpy
+python-dotenv
+pydantic
